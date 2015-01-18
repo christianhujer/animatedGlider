@@ -5,6 +5,8 @@ See also [The Glider: A Universal Hacker Emblem](http://www.catb.org/hacker-embl
 
 ![Animated Glider](https://raw.githubusercontent.com/christianhujer/animatedGlider/master/animatedGlider.svg)
 
+<img src="https://raw.githubusercontent.com/christianhujer/animatedGlider/master/animatedGlider.svg" />
+
 P.S.:
 This doesn't mean that I think everybody should accept the Glider as the hacker emblem.
 Do what you want.
