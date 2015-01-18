@@ -5,6 +5,15 @@ See also [The Glider: A Universal Hacker Emblem](http://www.catb.org/hacker-embl
 
 ![Animated Glider](http://christianhujer.github.io/images/animatedGlider.svg "Animated Glider")
 
+## Configuring the animation
+
+The animation supports a view parameters (via entities) to configure the details:
+* scale (determines the overall size)
+* color
+* radius of the dots
+* animation duration
+* frequency of the turbulence noise in the background
+
 P.S.:
 This doesn't mean that I think everybody should accept the Glider as the hacker emblem.
 Do what you want.

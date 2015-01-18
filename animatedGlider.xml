@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-    <!-- Scale. Total size is scale * 10 + 2. --><!ENTITY scale "10">
+    <!-- Scale. Total size is scale * 10 + 2. --><!ENTITY scale "5">
     <!-- Size derived from the scale. --><!ENTITY size "&scale;2">
     <!-- Color of the glider elements. --><!ENTITY fgcolor "#1e5">
     <!-- Radius of the dots. --><!ENTITY d ".75">
