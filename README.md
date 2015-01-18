@@ -3,9 +3,7 @@
 This is an animated [Glider](http://en.wikipedia.org/wiki/Glider_%28Conway%27s_Life%29) in SVG.
 See also [The Glider: A Universal Hacker Emblem](http://www.catb.org/hacker-emblem/) by ESR.
 
-![Animated Glider](http://christianhujer.github.io/images/animatedGlider.svg)
-
-<img src="https://raw.githubusercontent.com/christianhujer/animatedGlider/master/animatedGlider.svgz" />
+![Animated Glider](http://christianhujer.github.io/images/animatedGlider.svg "Animated Glider")
 
 P.S.:
 This doesn't mean that I think everybody should accept the Glider as the hacker emblem.
