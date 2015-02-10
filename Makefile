@@ -6,6 +6,6 @@ animatedGlider.svgz: animatedGlider.svg
 	gzip -9 <$^ >$@
 
 animatedGlider.svg: animatedGlider.xml
-	xmllint -noent -noblanks $< >$@
+	xmllint -noent -noblanks $< | xsltproc RemoveComments.xslt - >$@
 
 -include makehelp/Help.mak
